@@ -3,6 +3,9 @@ name = "treedir"
 version = "0.1.0"
 authors = ["Michael Fitzgerald <mchlfitzgerald52@gmail.com>"]
 edition = "2018"
+description = "A virtual directory tree library in Rust"
+license = "LGPL-2.1-or-later"
+license-file = "COPYING.LESSER"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
